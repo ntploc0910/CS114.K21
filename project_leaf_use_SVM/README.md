@@ -1,3 +1,4 @@
 - sử dụng HOG và SVM để rút trích đặc trưng hình ảnh và train model. Tên ảnh được chuyển về dạng "img"+"_"+ số thứ tự để thuận tiện cho việc gán nhãn.
 - file data-labels thực hiện rút trích đặc trưng bằng HOG, gán nhãn cho các vector đặc trưng.
 - file train-model thực hiện lấy tập đặc trưng đã được gán nhãn, sử dụng SVM để train model. sau khi train xong thực hiện test và kiểm tra độ chính xác.
+- độ chính xác của model <= 70% :)))
