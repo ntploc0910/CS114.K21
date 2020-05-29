@@ -1,0 +1,1 @@
+sử dụng HOG và SVM để rút trích đặc trưng hình ảnh và train model. Tên ảnh được chuyển về dạng "img"+"_"+ số thứ tự để thuận tiện cho việc gán nhãn.
